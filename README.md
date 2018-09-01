@@ -1,13 +1,13 @@
 # Manna
 Open source Manna cryptocurrency related projects. 
 
-/* This will be a MediaWiki extension to accept membership dues in the form of the cryptocurrency Manna.  */
-/* You can sign up to receive Manna at MannaBase.com */
-/* A GitCoin bounty will be created on Gitcoin.co */
-/* Membership dues can be paid per month, or for the year. */
-/* View specifications: https://github.com/Tenoorja/Manna/wiki/Manna-and-MediaWiki */
-/* Once you have successfully demonstrated a functional MediaWiki extension that sufficiently */
-/* matches the described specifications, the bounty will be paid. */
+This will be a MediaWiki extension to accept membership dues in the form of the cryptocurrency Manna. You can sign up to receive Manna at MannaBase.com. A GitCoin bounty will be created on Gitcoin.co. 
+
+Membership dues can be paid per month, or for the year. 
+
+View specifications: https://github.com/Tenoorja/Manna/wiki/Manna-and-MediaWiki 
+
+Once you have successfully demonstrated a functional MediaWiki extension that sufficiently matches the described specifications, the bounty will be paid. 
 
 This is an idea for a MediaWiki extension that enables MediaWiki installations to create new user accounts after a fee of Manna cryptocurrency fee is paid. This effectively creates the ability for MediaWiki sites to be function as paid membership websites with Manna as a method of payment.
 
